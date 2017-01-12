@@ -1,6 +1,6 @@
 ---
 name: mongo-tools3.2.11
-dependencies: []
+dependencies:
 - golang
 files:
 - mongo-tools3.2.11/mongo-tools-r3.2.11.tar.gz
